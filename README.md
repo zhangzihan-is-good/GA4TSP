@@ -1,1 +1,1 @@
-用遗传算法处理旅行商问题，这是我硕士期间一门课的实验，report是我的实验报告，如果对您有帮助可以点个star
+Using genetic algorithm to solve the traveling salesman problem, this is an experiment from a course during my master's degree. The report is my experimental report. If it is helpful to you, you can click on the star.
