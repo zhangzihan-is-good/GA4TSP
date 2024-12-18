@@ -1,1 +1,1 @@
-Using genetic algorithm to solve the traveling salesman problem, this is an experiment from a course during my master's degree. The report is my experimental report. If it is helpful to you, you can click on the star.
+A genetic algorithm was utilized to solve the Traveling Salesman Problem as part of an experimental project during my master’s studies. This report serves as the documentation of my experiment. If you find it helpful, your support by giving it a star would be greatly appreciated.
